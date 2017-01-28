@@ -15,9 +15,8 @@ module.exports = {
   name: 'ember-empathy',
   preBuild: function() {
     var quote = quotes[Math.floor(Math.random() * quotes.length)];
-    console.log('');
-    console.log('"' + quote.text + '"');
-    console.log('  — ' + quote.author);
-    console.log('');
+    this.project.ui.writeLine('"' + quote.text + '"');
+    this.project.ui.writeLine('  — ' + quote.author);
+    this.project.ui.spinner.start();
   }
 };
