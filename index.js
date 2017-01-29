@@ -3,7 +3,7 @@
 
 var quotes = [
   {
-    text: 'As a tech community, we must treat documentation, marketing, logistics, infrastructure, art, etc. work with as much respect as engineering',
+    text: 'As a tech community, we must treat documentation, marketing, logistics, infrastructure, art, etc. work with as much respect as engineering.',
     author: 'Yehuda Katz'
   }, {
     text: 'To maximize your impact in software, empower other developers.',
