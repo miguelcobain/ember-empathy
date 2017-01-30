@@ -1,5 +1,9 @@
 # ember-empathy
 
+> Because every talk should end with an "ember install" slide.
+
+![ember-empathy](/screenshot.png?raw=true "ember-empathy screenshot")
+
 During [SoEmber Conf 2017](http://soember.com/), in San Diego, @lukemelia gave a great talk, partly about how empathy is what makes the ember community so great and powerful.
 
 As it was [tweeted](https://twitter.com/tomdale/status/699270566411268096) by @tomdale:
