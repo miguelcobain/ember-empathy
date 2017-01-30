@@ -1,27 +1,30 @@
 # ember-empathy
 
-This README outlines the details of collaborating on this Ember addon.
+During [SoEmber Conf 2017](http://soember.com/), in San Diego, @lukemelia gave a great talk, partly about how empathy is what makes the ember community so great and powerful.
+
+As it was [tweeted](https://twitter.com/tomdale/status/699270566411268096) by @tomdale:
+
+> Noticeable Ember talk trend:
+1. Identify problem
+2. Explain in excruciating detail
+3. "But don't worry, just install this addon I wrote"
+
+SoEmber was really no exception. Empathy however isn't really something you can install, so the talk kind of was breaking the trend... But now you can install some empathy in your ember projects.
+
+## Features
+
+The idea is to display some trivia related to ember when you build your app with ember-cli. This way we can all move forward as a community, following the same general principles. By default, the addon will not run on production environments.
+
+Think of it as a "quote of the day app", but for our awesome community.
+
+**PLEASE PR** new trivia/quotes, maybe tips? :)
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd ember-empathy`
-* `npm install`
-* `bower install`
+Just run an `ember install`, that's the whole point:
 
-## Running
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-
-## Running Tests
-
-* `npm test` (Runs `ember try:each` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
+```bash
+ember install ember-empathy
+```
 
 For more information on using ember-cli, visit [https://ember-cli.com/](https://ember-cli.com/).
