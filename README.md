@@ -4,7 +4,17 @@
 
 ![ember-empathy](/screenshot.png?raw=true "ember-empathy screenshot")
 
+The idea is to display some trivia related to ember when you build your app with ember-cli. This way we can all move forward in the same direction as a community, following the same general principles. The addon will not run on production environments.
+
+Think of it as a "quote of the day" app, but for our awesome community.
+
+**PLEASE PR** new trivia/quotes, maybe tips? :)
+
+## Background
+
 During [SoEmber Conf 2017](http://soember.com/), in San Diego, @lukemelia gave a great talk, partly about how empathy is what makes the ember community so great and powerful.
+
+![lukemelia-keynote](/lukemelia-keynote.jpg?raw=true "Luke Melia's closing keynote at SoEmber Conf 2017")
 
 As it was [tweeted](https://twitter.com/tomdale/status/699270566411268096) by @tomdale:
 
@@ -14,14 +24,6 @@ As it was [tweeted](https://twitter.com/tomdale/status/699270566411268096) by @t
 3. "But don't worry, just install this addon I wrote"
 
 SoEmber was really no exception. Empathy however isn't really something you can install, so the talk kind of was breaking the trend... But now you can install some empathy in your ember projects.
-
-## Features
-
-The idea is to display some trivia related to ember when you build your app with ember-cli. This way we can all move forward as a community, following the same general principles. By default, the addon will not run on production environments.
-
-Think of it as a "quote of the day app", but for our awesome community.
-
-**PLEASE PR** new trivia/quotes, maybe tips? :)
 
 ## Installation
 
