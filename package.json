@@ -6,12 +6,12 @@
     "ember-addon"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Miguel Andrade <jmandrade0@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/miguelcobain/ember-empathy",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
